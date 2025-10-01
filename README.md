@@ -1,1 +1,3 @@
-# task_and_events
+Developed a to-do application using React and TypeScript, integrating
+with an API to add, update, and delete tasks, showcasing dynamic state
+management and handling of asynchronous operations.
